@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07angello&label=Profile%20views&color=0e75b6&style=flat" alt="07angello" /> </p>
 
-- 🔭 I’m a Software Engineer at [Hero Unit](https://herounit.io/)
+- 🔭 I’m a Software Engineer at [HeroUnit](https://herounit.io/)
 
 - 🌱 I’m currently learning **Data Science**
 
